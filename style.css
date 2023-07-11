@@ -1,0 +1,183 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+/*banner part css*/
+h1{
+  font-size: 55px;
+}
+.banner-container{
+  background: rgba(187, 8, 172, 0.123);
+   display: flex;
+   align-items: center;
+   justify-content:center;
+   gap: 75px;
+}
+.banner-des{
+  max-width: 500px;
+  /*background-color: blue;*/
+  
+}
+.banner-des-para{
+  padding-top: 10px;
+  text-align: justify;
+  line-height: 23px;
+  
+}
+.btn-primary{
+  border-radius: 5px;
+  padding: 15px ;
+  text-align: center;
+  font-size: 15px;
+  border: 0;
+  width: 120px;
+  margin-top: 20px;
+  border-radius: 8px;
+background: #E55473;
+cursor: pointer;
+ 
+}
+.banner-img{
+  
+  }
+.banner-img-real{
+  width: 500px;
+   padding-top: 30px;
+  height: 550px;
+  padding-left: 50px;
+
+}
+.featured{
+  max-width: 400px;
+  margin: 0 auto;
+  
+}
+.featured-title{
+  
+  align-items: center;
+  margin-top: 60px;
+  text-align: center;
+}
+
+.para{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.featured-image-container{
+  
+  display:flex;
+  justify-content: space-around;
+  gap: 20px;
+  width: 70%;
+  height: 400px;
+  margin: auto;
+  margin-top: 30px;
+}
+.featured-img-one{
+  background-color:rgba(179, 117, 179, 0.575);
+   padding-top: 69px;
+   padding-left: 45px;
+   padding-right: 45px;
+   width: 200px;
+   
+   
+   border-top-left-radius: 200px;
+   border-top-right-radius: 200px;
+}
+.featured-img-two{
+  background-color:rgba(122, 173, 221, 0.575);
+   padding-top: 65px;
+   align-items: center;
+   padding-bottom: 80px;
+   padding-left: 45px;
+   padding-right: 45px;
+   width: 200px;
+   height: 200px;
+   border-top-left-radius: 200px;
+   border-top-right-radius: 200px;
+}
+.featured-img-three{
+  background-color:rgba(147, 150, 103, 0.575);
+   padding-top: 45px;
+   padding-left: 45px;
+   padding-right: 45px;
+   width: 200px;
+   border-top-left-radius: 200px;
+   border-top-right-radius: 200px;
+}
+
+.pink-flower{
+  line-height: 20px;
+ color: black;
+ padding: 20%;
+}
+.caption{
+padding: 10px;
+
+text-align: center;
+}
+
+.deal-container{
+  background: rgba(167, 123, 163, 0.178);
+   display: flex;
+   align-items: center;
+   justify-content:center;
+   gap: 75px;
+   height: 400px;
+   margin-top: 20px;
+}
+.color{
+  color:#E55473;
+}
+.text-color{
+  color:white
+}
+.deal-des{
+  
+  text-align: center;
+  
+}
+.deal-des-para{
+  padding-top: 10px;
+  text-align: center;
+  line-height: 23px;
+}
+#no-background
+{
+  background: none;
+}
+.deal-img-real{
+  height: 350px;
+  width: 300px;
+  background-color: rgb(19, 19, 36);
+}
+main{
+  max-width: 400px;
+  margin: 0 auto;
+}
+.insta-img-container{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.insta-img{
+  width: 300px;
+height: 300px;
+border: #723c48;
+}
+
+
+
+.footer-end{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 100px;
+  margin-top: 50px;
+}
+.footer-color{
+  color: gray;
+}
