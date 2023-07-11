@@ -117,9 +117,9 @@ cursor: pointer;
  padding: 20%;
 }
 .caption{
-line-height: 25px;
-text-align: center;
-font-size: bold;
+line-height: 27px;
+text-align: justify;
+font-size: large;
 text-align: center;
 }
 
@@ -211,6 +211,7 @@ h2,p{
    padding-left: 45px;
    padding-right: 45px;
    width: 200px;
+   border: 1px solid black;
    
 }
 .featured-img-five{
@@ -221,7 +222,7 @@ h2,p{
    padding-right: 45px;
    padding-bottom: 25px;
    width: 200px;
-  
+   border: 1px solid black;
    
 }
 .featured-img-six{
@@ -231,14 +232,16 @@ h2,p{
    padding-right: 45px;
    padding-bottom: 55px;
    width: 200px;
+   border: 1px solid black;
 }
 .btn{
-  border-radius: 5px;
+  border-radius: 12px;
   padding: 10px ;
   text-align: center;
-
+  
 background: #E55473;
 cursor: pointer;
 color: white;
 border: none;
 }
+
